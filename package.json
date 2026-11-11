@@ -1,0 +1,7 @@
+{
+  "name": "bbp-cert-scope",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo done"
+  }
+}
